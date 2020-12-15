@@ -1,3 +1,4 @@
+
 # Kubernetes
 ## Get
 alias kg='kubectl get'
@@ -15,3 +16,4 @@ alias kds='kubectl describe service'
 alias kdcm='kubectl describe ConfigMap'
 ## Other
 alias kaf='kubectl apply -f'
+
